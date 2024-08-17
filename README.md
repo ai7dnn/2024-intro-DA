@@ -4,8 +4,13 @@
 # 강환수 교수의 유튜브 강좌(참고 강좌)
 
 | 번호 | 강좌 제목(유튜브 강좌 연결) |
-| 1 | [데이터분석입문 01차시 #01 Lecture 01 강의 소개](https://youtu.be/D-JcJGuCq-M)
-2	데이터분석입문 02차시 #02 Lecture 02 파이썬 개발환경 아나콘다 개요와 설치	https://youtu.be/XXpNFumRAzM
+| ---- | ---------------------------- |
+| 1 | [데이터분석입문 01차시 #01 Lecture 01 강의 소개](https://youtu.be/D-JcJGuCq-M) |
+| 2	| [데이터분석입문 02차시 #02 Lecture 02 파이썬 개발환경 아나콘다 개요와 설치](https://youtu.be/XXpNFumRAzM) | 
+
+
+
+
 3	데이터분석입문 03차시 #03 Lecture 03 파이썬 개발환경 주피터 노트북 실행	https://youtu.be/6kvsAKJSYSo
 4	데이터분석입문 04차시 #04 Lecture 04 파이썬 자료형과 변수	https://youtu.be/2zcTI_8z0uo
 5	데이터분석입문 05차시 #05 Lecture 05 입출력과 함수	https://youtu.be/Y6ith7gNPYA
