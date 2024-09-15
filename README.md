@@ -28,7 +28,7 @@
 | 16| [데이터분석입문 16차시 #16 Lecture 16 인구 데이터 준비와 지역의 연령별 인구 데이터 분석](https://youtu.be/AyPjbrC08AE) |
 | 17| [데이터분석입문 17차시 #17 Lecture 17 인구구조 연령별 성별 데이터분석](https://youtu.be/yKoxVpmNVbg) |
 | 18| [(06~07주 수업참고) 데이터분석입문 18차시 #18 Lecture 18 matplotlib의 scatter 그래프](https://youtu.be/5Hez96r6kP8) |
-| 19| [데이터분석입문 19차시 #19 Lecture 19 vs code에서 노트북 활용](https://youtu.be/PLugUysV0II) |
+| 19| [(01~02주 수업참고) 데이터분석입문 19차시 #19 Lecture 19 vs code에서 노트북 활용](https://youtu.be/PLugUysV0II) |
 | 20| [데이터분석입문 20차시 #20 Lecture 20 대중교통 데이터분석 기초](https://youtu.be/r-SMWqGalHI) |
 | 21| [데이터분석입문 21차시 #21 Lecture 21 서울 지하철 승객 시간별 데이터 시각화](https://youtu.be/qzBeKtaoyLs) |
 | 22| [데이터분석입문 22차시 #22 Lecture 22 서울 지하철 이용 데이터 분석](https://youtu.be/MInvQWePmH0) |
