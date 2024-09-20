@@ -4,6 +4,15 @@
 ## 01주 과제
 - 수업에서 작성한 2번째 노트북 파일 완성(교재 p22까지)해서 자신의 깃허브 저장소에 업로드
 
+## 개인과제: 
+- 데이터분석입문 과제 업로드를 위한 개인 github 저장소 구축
+- 개인과제 저장소 주소 업로드
+  - [A반](https://docs.google.com/spreadsheets/d/1hRgCxRkFdKhrIo5c5qnsGunaJq_mH8cs6JIQtLiDRCA/edit?usp=sharing)
+  - [B반](https://docs.google.com/spreadsheets/d/1ndag50BsTJcVbgx57lczKzh5j5AxHOFcKCo_NOM3lVU/edit?usp=sharing)
+- 과제마감일
+  - 2024.12.06(금)
+
+
 # 강환수 교수의 유튜브 강좌(참고 강좌)
 - [걍 교수의 AIT code](https://youtu.be/D-JcJGuCq-M)
 - 다음은 참고 유튜브 강좌로 본 수업의 내용과 다른 내용도 있습니다. 
