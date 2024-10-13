@@ -28,16 +28,16 @@
 | 7	|  03주를 위한 자료 | [(03주 수업) 데이터분석입문 07차시 #07 Lecture 07 서울 기온 데이터분석 기초](https://youtu.be/UJhjPJVCEZY) |
 | 8	|  03주를 위한 자료 | [(03주 수업) 데이터분석입문 08차시 #08 Lecture 08 서울 최고기온 데이터분석](https://youtu.be/A3KpatkfSNI) |
 | 9	|  03주를 위한 자료 | [(03주 수업) 데이터분석입문 09차시 #09 Lecture 09 matplotlib과 numpy 라이브러리](https://youtu.be/wLEa-DKybTI) |
-| 10|  05주를 위한 예습자료 | [(06주 수업참고) 데이터분석입문 10차시 #10 Lecture 10 matplotlib 라이브러리로 그래프 그리기](https://youtu.be/aIkYWmZPBpo) |
-| 11|  05주를 위한 예습자료 | [(06주 수업참고) 데이터분석입문 11차시 #11 Lecture 11 matplotlib 한글폰트와 hist boxplot 그리기](https://youtu.be/Wml-Lu5hjg0) |
-| 12|  05주를 위한 예습자료 | [(06주 수업참고) 데이터분석입문 12차시 #12 Lecture 12 matplotlib의 figure와 axes](https://youtu.be/i8LqM7LqIIU) |
+| 10|  06주를 위한 예습자료 | [(06주 수업참고) 데이터분석입문 10차시 #10 Lecture 10 matplotlib 라이브러리로 그래프 그리기](https://youtu.be/aIkYWmZPBpo) |
+| 11|  06주를 위한 예습자료 | [(06주 수업참고) 데이터분석입문 11차시 #11 Lecture 11 matplotlib 한글폰트와 hist boxplot 그리기](https://youtu.be/Wml-Lu5hjg0) |
+| 12|  06주를 위한 예습자료 | [(06주 수업참고) 데이터분석입문 12차시 #12 Lecture 12 matplotlib의 figure와 axes](https://youtu.be/i8LqM7LqIIU) |
 | 13|  | [데이터분석입문 13차시 #13 Lecture 13 서울의 크리스마스 기온 분석](https://youtu.be/w17qxQ2H04k) |
 | 14|  | [데이터분석입문 14차시 #14 Lecture 14 서울의 최저 최고 기온 분석](https://youtu.be/rPJwN4dV494) |
-| 15|  06주를 위한 예습자료 | [(06~07주 수업참고) 데이터분석입문 15차시 #15 Lecture 15 matplotlib bar와 pie 그리기](https://youtu.be/gS_yU6_h_hY) |
+| 15|  07주를 위한 예습자료 | [(06~07주 수업참고) 데이터분석입문 15차시 #15 Lecture 15 matplotlib bar와 pie 그리기](https://youtu.be/gS_yU6_h_hY) |
 | 16|  | [데이터분석입문 16차시 #16 Lecture 16 인구 데이터 준비와 지역의 연령별 인구 데이터 분석](https://youtu.be/AyPjbrC08AE) |
 | 17|  | [데이터분석입문 17차시 #17 Lecture 17 인구구조 연령별 성별 데이터분석](https://youtu.be/yKoxVpmNVbg) |
-| 18|  06주를 위한 예습자료 | [(06~07주 수업참고) 데이터분석입문 18차시 #18 Lecture 18 matplotlib의 scatter 그래프](https://youtu.be/5Hez96r6kP8) |
-| 19|  06주를 위한 예습자료 | [(01~02주 수업참고) 데이터분석입문 19차시 #19 Lecture 19 vs code에서 노트북 활용](https://youtu.be/PLugUysV0II) |
+| 18|  07주를 위한 예습자료 | [(06~07주 수업참고) 데이터분석입문 18차시 #18 Lecture 18 matplotlib의 scatter 그래프](https://youtu.be/5Hez96r6kP8) |
+| 19|  07주를 위한 예습자료 | [(01~02주 수업참고) 데이터분석입문 19차시 #19 Lecture 19 vs code에서 노트북 활용](https://youtu.be/PLugUysV0II) |
 | 20|  | [데이터분석입문 20차시 #20 Lecture 20 대중교통 데이터분석 기초](https://youtu.be/r-SMWqGalHI) |
 | 21|  | [데이터분석입문 21차시 #21 Lecture 21 서울 지하철 승객 시간별 데이터 시각화](https://youtu.be/qzBeKtaoyLs) |
 | 22|  | [데이터분석입문 22차시 #22 Lecture 22 서울 지하철 이용 데이터 분석](https://youtu.be/MInvQWePmH0) |
