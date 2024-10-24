@@ -20,6 +20,11 @@
 - 과제마감일
   - 2024.12.06(금)
 
+## 후반기 수업 코딩: 
+- ipynb에서 다음 명령 수행
+  `!git clone https://github.com/ai7dnn/data.git` 
+- [09주](https://colab.research.google.com/github/ai7dnn/2024-intro-DA/blob/main/youtube-contents/lecture13-14-15-age-bar-pie.ipynb)
+
 
 # 강환수 교수의 유튜브 강좌(참고 강좌)
 - [걍 교수의 AIT code](https://youtu.be/D-JcJGuCq-M)
