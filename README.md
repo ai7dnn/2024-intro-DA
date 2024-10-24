@@ -25,6 +25,8 @@
   - `!git clone https://github.com/ai7dnn/data.git` 
 - [09주](https://colab.research.google.com/github/ai7dnn/2024-intro-DA/blob/main/youtube-contents/lecture13-14-15-age-bar-pie.ipynb)
   - https://colab.research.google.com/github/ai7dnn/2024-intro-DA/blob/main/youtube-contents/lecture13-14-15-age-bar-pie.ipynb
+- [10주](https://colab.research.google.com/github/ai7dnn/2024-intro-DA/blob/main/youtube-contents/lecture16-17-18-age-gender-scatter.ipynb)
+  - https://colab.research.google.com/github/ai7dnn/2024-intro-DA/blob/main/youtube-contents/lecture16-17-18-age-gender-scatter.ipynb
 
 
 # 강환수 교수의 유튜브 강좌(참고 강좌)
