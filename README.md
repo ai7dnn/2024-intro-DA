@@ -23,8 +23,8 @@
 ## 후반기 수업 코딩(PC의 vscode에서 수행 시): 
 - 기준 폴더 [데이터분석A-w09-14] 또는 [데이터분석B-w09-14]에서 git bash를 실행해 다음 수행
   - `git clone https://github.com/ai7dnn/2024-intro-DA.git` 
-- vscode에서 복제된 폴더 youtube-contents를 선택해 실행
-- 각 ipynb를 열어 select kernel에서 아나콘다의 (base)를 선택 후 실행 
+- vscode에서 복제된 폴더 하부의 youtube-contents를 선택해 실행
+- 각 주피터노트북 파일 *.ipynb를 열어 select kernel에서 아나콘다의 (base)를 선택 후 실행 
   - [09주] .../youtube-contents/lecture13-14-15-age-bar-pie.ipynb
   - [10주] .../youtube-contents/lecture16-17-18-age-gender-scatter.ipynb
 
