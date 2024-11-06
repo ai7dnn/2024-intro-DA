@@ -20,7 +20,15 @@
 - 과제마감일
   - 2024.12.06(금)
 
-## 후반기 수업 코딩: 
+## 후반기 수업 코딩(PC의 vscodelab에서 수행 시): 
+- 기준 폴더에서 git bash를 실행해 다음 수행
+  - `git clone https://github.com/ai7dnn/data.git` 
+- vscode에서 폴더를 youtube-contents를 선택해 실행
+- 각 ipynb를 실행 
+  - [09주] .../youtube-contents/lecture13-14-15-age-bar-pie.ipynb
+  - [10주] .../youtube-contents/lecture16-17-18-age-gender-scatter.ipynb
+
+## 후반기 수업 코딩(colab에서 수행 시): 
 - ipynb에서 다음 명령 수행 
   - `!git clone https://github.com/ai7dnn/data.git` 
 - [09주](https://colab.research.google.com/github/ai7dnn/2024-intro-DA/blob/main/youtube-contents/lecture13-14-15-age-bar-pie.ipynb)
