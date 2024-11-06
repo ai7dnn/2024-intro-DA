@@ -20,7 +20,7 @@
 - 과제마감일
   - 2024.12.06(금)
 
-## 후반기 수업 코딩(PC의 vscodelab에서 수행 시): 
+## 후반기 수업 코딩(PC의 vscode에서 수행 시): 
 - 기준 폴더에서 git bash를 실행해 다음 수행
   - `git clone https://github.com/ai7dnn/data.git` 
 - vscode에서 폴더를 youtube-contents를 선택해 실행
