@@ -77,7 +77,7 @@
 | 21[11/20(수)]|  | [데이터분석입문 21차시 #21 Lecture 21 서울 지하철 승객 시간별 데이터 시각화](https://youtu.be/qzBeKtaoyLs) |
 | 22[11/27(수)]|  | [데이터분석입문 22차시 #22 Lecture 22 서울 지하철 이용 데이터 분석](https://youtu.be/MInvQWePmH0) |
 | 23|  04주를 위한 예습자료 | [(04주 수업참고) 데이터분석입문 23차시 #23 Lecture 23 과학 컴퓨팅 패키지 numpy](https://youtu.be/fCt4HGeGHu8) |
-| 24|  04주를 위한 예습자료 | [(04주 수업참고) 데이터분석입문 24차시 #24 Lecture 24 Numpy 배열 연산과 난수 생성](https://youtu.be/7Im8ThMzbhA) |
+| 24[11/27(수)]|  04주를 위한 예습자료 | [(04주 수업참고) 데이터분석입문 24차시 #24 Lecture 24 Numpy 배열 연산과 난수 생성](https://youtu.be/7Im8ThMzbhA) |
 | 25|  04주를 위한 예습자료 | [(04주 06~07주 수업참고) 데이터분석입문 25차시 #25 Lecture 25 NumPy와 matplotlib 활용](https://youtu.be/DqepjjCnezU) |
 | 26[11/27(수)]|  | [데이터분석입문 26차시 #26 Lecture 26 연령별 인구구조 유사지역 분석](https://youtu.be/Bgly3Cgxh8g) |
 | 27[11/27(수)]|  | [데이터분석입문 27차시 #27 Lecture 27 데이터프레임을 위한 pandas 패키지](https://youtu.be/Z1re9KZ4GV4) |
