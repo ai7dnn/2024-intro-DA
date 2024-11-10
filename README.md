@@ -19,6 +19,17 @@
   - [B반](https://docs.google.com/spreadsheets/d/1ndag50BsTJcVbgx57lczKzh5j5AxHOFcKCo_NOM3lVU/edit?usp=sharing)
 - 과제마감일
   - 2024.12.06(금)
+ 
+## 팀과제: 
+- 파이썬 언어를 활용하고 공공데이터 또는 토이데이터(toy data)인 pydataset을 사용해 데이터분석
+  - 서울 날씨 데이터, 우리나라 읍면동 인구 데이터 분석을 참고 
+  - 교재 8장 참고(패키지 pydataset과 다양한 데이터 파일 활용) 
+- 팀과제 파일(01조_*.ipynb) 저장소 주소 업로드
+  - [A반](https://docs.google.com/spreadsheets/d/1hRgCxRkFdKhrIo5c5qnsGunaJq_mH8cs6JIQtLiDRCA/edit?usp=sharing)
+  - [B반](https://docs.google.com/spreadsheets/d/1ndag50BsTJcVbgx57lczKzh5j5AxHOFcKCo_NOM3lVU/edit?usp=sharing)
+- 팀과제 발표일
+  - 2024.12.04(수), 수업 중에 업로드 결과 파일인 ipynb 파일로 발표
+
 
 ## 후반기 수업 코딩(PC의 vscode에서 수행 시): 
 - 기준 폴더 [데이터분석A-w09-14] 또는 [데이터분석B-w09-14]에서 git bash를 실행해 다음 수행
